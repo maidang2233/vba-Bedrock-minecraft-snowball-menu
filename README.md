@@ -1,6 +1,8 @@
 # excel-vba-minecraft-snowball-menu
 用excel vba 写的我的世界基岩版雪球菜单（不支持新execute）
 
+$是跳过选区 §也是跳过选区
+
 用ChatGPT和个人理解更改的（应该会有bug）
 
 欢迎大家提出修改意见或者增加新内容
